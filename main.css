@@ -10,3 +10,13 @@ p::first-letter {
   color: red;
   font-size: 25px;
 }
+
+.caja {
+  background-color: green;
+  width: 30px;
+  height: 30px;
+}
+
+h1 {
+  color: gold;
+}
