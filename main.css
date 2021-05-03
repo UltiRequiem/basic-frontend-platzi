@@ -1,5 +1,7 @@
-h1{color: aqua;}
+p:nth-child(2n + 1) {
+  color: green;
+}
 
-p{
-color: red;
+p:nth-child(2n) {
+  color: blue;
 }
