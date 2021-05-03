@@ -21,6 +21,12 @@ h2 {
   color: lime;
 }
 
+img {
+  width: 70%;
+  margin: auto;
+  display: block;
+}
+
 footer {
   color: red;
   cursor: pointer;
