@@ -15,6 +15,9 @@ p::first-letter {
   background-color: green;
   width: 30px;
   height: 30px;
+  padding: 20px;
+  border: 10px solid #50b6;
+  box-sizing: border-box;
 }
 
 h1 {
