@@ -41,6 +41,16 @@ h1::before {
   content: "♥ ";
 }
 
+header {
+  background-color: #21c08b;
+  width: 100%;
+  height: 80px;
+}
+
+header img {
+  width: 270px;
+}
+
 body {
   margin: 0px;
 }
