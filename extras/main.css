@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-image: linear-gradient(#21c08b, #8f57fd);
+
+  font-family: "Muli", sans-serif;
+}
+
+h1 {
+  color: aqua;
+}
+
+h1::before {
+  content: "✨";
+}
+
+h1::after {
+  content: "✨";
+}
+
+h2 {
+  color: lime;
+}
+
+footer {
+  color: red;
+  cursor: pointer;
+  font-size: 30px;
+  text-decoration: none;
+  display: table;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
