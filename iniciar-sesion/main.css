@@ -138,13 +138,16 @@ body {
 .button {
   background-color: rgba(255, 255, 255, 0.3);
   border: none;
+  text-transform: Uppercase;
+  text-align: center;
+  text-decoration:none;
   border-radius: 25px;
   color: white;
   cursor: pointer;
   font-size: 16px;
   font-weight: bold;
   font-family: 'Muli', sans-serif;
-  height: 50px;
+  padding: 10px 25px;
   letter-spacing: 1px;
   margin: 10px 0px;
 }
