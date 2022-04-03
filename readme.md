@@ -26,5 +26,9 @@ Don't forget to start the repo ⭐
 Maintainer 💪
 
 See also the full list of
-[contributors](https://github.com/UltiRequiem/REPO/contributors) who
-participated in this project.
+[contributors](https://github.com/UltiRequiem/basic-frontend-platzi/contributors)
+who participated in this project.
+
+## Licence
+
+Licensed under the MIT License.
