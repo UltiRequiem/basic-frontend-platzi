@@ -1,10 +1,10 @@
 {
   "name": "basic-frontend-platzi",
   "version": "1.0.0",
-  "description": "Puedes visitar el proyecto en: https://ultirequiem.github.io/Basic-Frontend-Platzi",
   "main": "index.js",
   "scripts": {
-    "start": "npx live-server ."
+    "start": "npx live-server .",
+    "lint": "prettier --check '**/*.{js,html}'"
   },
   "repository": {
     "type": "git",

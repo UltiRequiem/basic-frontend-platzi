@@ -3,7 +3,7 @@ body {
   margin: 0;
   background-image: linear-gradient(#21c08b, #8f57fd);
   min-height: 100vh;
-  font-family: "Muli", sans-serif;
+  font-family: 'Muli', sans-serif;
 }
 
 h1 {
@@ -11,11 +11,11 @@ h1 {
 }
 
 h1::before {
-  content: "✨";
+  content: '✨';
 }
 
 h1::after {
-  content: "✨";
+  content: '✨';
 }
 
 h2 {

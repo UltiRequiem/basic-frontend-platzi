@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Muli", sans-serif;
+  font-family: 'Muli', sans-serif;
 }
 
 .header {
@@ -88,7 +88,7 @@ body {
   border-right: 0px;
   border-top: 0px;
   color: white;
-  font-family: "Muli", sans-serif;
+  font-family: 'Muli', sans-serif;
   font-size: 16px;
   height: 50px;
   margin-bottom: 20px;
@@ -108,7 +108,7 @@ body {
   cursor: pointer;
   font-size: 16px;
   font-weight: bold;
-  font-family: "Muli", sans-serif;
+  font-family: 'Muli', sans-serif;
   height: 50px;
   letter-spacing: 1px;
   margin: 10px 0px;
@@ -128,4 +128,3 @@ body {
     flex-direction: column;
   }
 }
-
